@@ -100,3 +100,4 @@ print('\n -------------------------\n')
 driver.switch_to.window(all_windows[0])
 print("Context Menu")
 time.sleep(10)
+
